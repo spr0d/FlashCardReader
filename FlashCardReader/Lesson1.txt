@@ -1,0 +1,3 @@
+What is a namespace?: A container for classes.
+What is JIT Compilation?: The compilation of IL code to native machine code at runtime.
+What is an assembly?: A single unit of deployment of .NET applications.
